@@ -1,0 +1,86 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.syanpicker.test" >
+4
+5    <uses-sdk
+5-->/Users/host/apricot_doctor_app/node_modules/react-native-syan-image-picker/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2742577115136744617.xml:5:5-74
+6        android:minSdkVersion="16"
+6-->/Users/host/apricot_doctor_app/node_modules/react-native-syan-image-picker/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2742577115136744617.xml:5:15-41
+7        android:targetSdkVersion="28" />
+7-->/Users/host/apricot_doctor_app/node_modules/react-native-syan-image-picker/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2742577115136744617.xml:5:42-71
+8
+9    <instrumentation
+9-->/Users/host/apricot_doctor_app/node_modules/react-native-syan-image-picker/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2742577115136744617.xml:11:5-15:69
+10        android:name="android.test.InstrumentationTestRunner"
+10-->/Users/host/apricot_doctor_app/node_modules/react-native-syan-image-picker/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2742577115136744617.xml:11:22-75
+11        android:functionalTest="false"
+11-->/Users/host/apricot_doctor_app/node_modules/react-native-syan-image-picker/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2742577115136744617.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/Users/host/apricot_doctor_app/node_modules/react-native-syan-image-picker/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2742577115136744617.xml:13:22-53
+13        android:label="Tests for com.syanpicker.test"
+13-->/Users/host/apricot_doctor_app/node_modules/react-native-syan-image-picker/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2742577115136744617.xml:15:22-67
+14        android:targetPackage="com.syanpicker.test" />
+14-->/Users/host/apricot_doctor_app/node_modules/react-native-syan-image-picker/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2742577115136744617.xml:12:22-65
+15
+16    <application
+16-->/Users/host/apricot_doctor_app/node_modules/react-native-syan-image-picker/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2742577115136744617.xml:7:5-9:19
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.0.1] /Users/luyouwei/.gradle/caches/transforms-2/files-2.1/aec21a1ab9282e1f77ae5d559ea9c0bc/core-1.0.1/AndroidManifest.xml:22:18-86
+18        android:debuggable="true"
+18-->/Users/host/apricot_doctor_app/node_modules/react-native-syan-image-picker/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2742577115136744617.xml:7:18-43
+19        android:theme="@style/AppTheme" >
+19-->[com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] /Users/luyouwei/.gradle/caches/transforms-2/files-2.1/6e3f0e476d90ba8fdb7d45f37f6e3300/jetified-picture_library-v2.2.3/AndroidManifest.xml:11:18-49
+20        <uses-library android:name="android.test.runner" />
+20-->/Users/host/apricot_doctor_app/node_modules/react-native-syan-image-picker/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2742577115136744617.xml:8:9-60
+20-->/Users/host/apricot_doctor_app/node_modules/react-native-syan-image-picker/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2742577115136744617.xml:8:23-57
+21
+22        <provider
+22-->[com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] /Users/luyouwei/.gradle/caches/transforms-2/files-2.1/6e3f0e476d90ba8fdb7d45f37f6e3300/jetified-picture_library-v2.2.3/AndroidManifest.xml:12:9-20:20
+23            android:name="com.luck.picture.lib.PictureFileProvider"
+23-->[com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] /Users/luyouwei/.gradle/caches/transforms-2/files-2.1/6e3f0e476d90ba8fdb7d45f37f6e3300/jetified-picture_library-v2.2.3/AndroidManifest.xml:13:13-68
+24            android:authorities="com.syanpicker.test.provider"
+24-->[com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] /Users/luyouwei/.gradle/caches/transforms-2/files-2.1/6e3f0e476d90ba8fdb7d45f37f6e3300/jetified-picture_library-v2.2.3/AndroidManifest.xml:14:13-60
+25            android:exported="false"
+25-->[com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] /Users/luyouwei/.gradle/caches/transforms-2/files-2.1/6e3f0e476d90ba8fdb7d45f37f6e3300/jetified-picture_library-v2.2.3/AndroidManifest.xml:15:13-37
+26            android:grantUriPermissions="true" >
+26-->[com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] /Users/luyouwei/.gradle/caches/transforms-2/files-2.1/6e3f0e476d90ba8fdb7d45f37f6e3300/jetified-picture_library-v2.2.3/AndroidManifest.xml:16:13-47
+27            <meta-data
+27-->[com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] /Users/luyouwei/.gradle/caches/transforms-2/files-2.1/6e3f0e476d90ba8fdb7d45f37f6e3300/jetified-picture_library-v2.2.3/AndroidManifest.xml:17:13-19:54
+28                android:name="android.support.FILE_PROVIDER_PATHS"
+28-->[com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] /Users/luyouwei/.gradle/caches/transforms-2/files-2.1/6e3f0e476d90ba8fdb7d45f37f6e3300/jetified-picture_library-v2.2.3/AndroidManifest.xml:18:17-67
+29                android:resource="@xml/file_paths" />
+29-->[com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] /Users/luyouwei/.gradle/caches/transforms-2/files-2.1/6e3f0e476d90ba8fdb7d45f37f6e3300/jetified-picture_library-v2.2.3/AndroidManifest.xml:19:17-51
+30        </provider>
+31
+32        <activity
+32-->[com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] /Users/luyouwei/.gradle/caches/transforms-2/files-2.1/6e3f0e476d90ba8fdb7d45f37f6e3300/jetified-picture_library-v2.2.3/AndroidManifest.xml:22:9-24:55
+33            android:name="com.luck.picture.lib.PictureSelectorActivity"
+33-->[com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] /Users/luyouwei/.gradle/caches/transforms-2/files-2.1/6e3f0e476d90ba8fdb7d45f37f6e3300/jetified-picture_library-v2.2.3/AndroidManifest.xml:23:13-72
+34            android:windowSoftInputMode="adjustPan" />
+34-->[com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] /Users/luyouwei/.gradle/caches/transforms-2/files-2.1/6e3f0e476d90ba8fdb7d45f37f6e3300/jetified-picture_library-v2.2.3/AndroidManifest.xml:24:13-52
+35        <activity android:name="com.luck.picture.lib.PicturePreviewActivity" />
+35-->[com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] /Users/luyouwei/.gradle/caches/transforms-2/files-2.1/6e3f0e476d90ba8fdb7d45f37f6e3300/jetified-picture_library-v2.2.3/AndroidManifest.xml:25:9-80
+35-->[com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] /Users/luyouwei/.gradle/caches/transforms-2/files-2.1/6e3f0e476d90ba8fdb7d45f37f6e3300/jetified-picture_library-v2.2.3/AndroidManifest.xml:25:19-77
+36        <activity
+36-->[com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] /Users/luyouwei/.gradle/caches/transforms-2/files-2.1/6e3f0e476d90ba8fdb7d45f37f6e3300/jetified-picture_library-v2.2.3/AndroidManifest.xml:26:9-29:50
+37            android:name="com.luck.picture.lib.PictureVideoPlayActivity"
+37-->[com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] /Users/luyouwei/.gradle/caches/transforms-2/files-2.1/6e3f0e476d90ba8fdb7d45f37f6e3300/jetified-picture_library-v2.2.3/AndroidManifest.xml:27:13-73
+38            android:configChanges="orientation|keyboardHidden|screenSize"
+38-->[com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] /Users/luyouwei/.gradle/caches/transforms-2/files-2.1/6e3f0e476d90ba8fdb7d45f37f6e3300/jetified-picture_library-v2.2.3/AndroidManifest.xml:28:13-74
+39            android:screenOrientation="sensor" />
+39-->[com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] /Users/luyouwei/.gradle/caches/transforms-2/files-2.1/6e3f0e476d90ba8fdb7d45f37f6e3300/jetified-picture_library-v2.2.3/AndroidManifest.xml:29:13-47
+40        <activity android:name="com.luck.picture.lib.PictureExternalPreviewActivity" />
+40-->[com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] /Users/luyouwei/.gradle/caches/transforms-2/files-2.1/6e3f0e476d90ba8fdb7d45f37f6e3300/jetified-picture_library-v2.2.3/AndroidManifest.xml:30:9-88
+40-->[com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] /Users/luyouwei/.gradle/caches/transforms-2/files-2.1/6e3f0e476d90ba8fdb7d45f37f6e3300/jetified-picture_library-v2.2.3/AndroidManifest.xml:30:19-85
+41        <activity android:name="com.yalantis.ucrop.UCropActivity" />
+41-->[com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] /Users/luyouwei/.gradle/caches/transforms-2/files-2.1/6e3f0e476d90ba8fdb7d45f37f6e3300/jetified-picture_library-v2.2.3/AndroidManifest.xml:31:9-69
+41-->[com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] /Users/luyouwei/.gradle/caches/transforms-2/files-2.1/6e3f0e476d90ba8fdb7d45f37f6e3300/jetified-picture_library-v2.2.3/AndroidManifest.xml:31:19-66
+42        <activity android:name="com.yalantis.ucrop.PictureMultiCuttingActivity" />
+42-->[com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] /Users/luyouwei/.gradle/caches/transforms-2/files-2.1/6e3f0e476d90ba8fdb7d45f37f6e3300/jetified-picture_library-v2.2.3/AndroidManifest.xml:32:9-83
+42-->[com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] /Users/luyouwei/.gradle/caches/transforms-2/files-2.1/6e3f0e476d90ba8fdb7d45f37f6e3300/jetified-picture_library-v2.2.3/AndroidManifest.xml:32:19-80
+43        <activity android:name="com.luck.picture.lib.PicturePlayAudioActivity" />
+43-->[com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] /Users/luyouwei/.gradle/caches/transforms-2/files-2.1/6e3f0e476d90ba8fdb7d45f37f6e3300/jetified-picture_library-v2.2.3/AndroidManifest.xml:33:9-82
+43-->[com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] /Users/luyouwei/.gradle/caches/transforms-2/files-2.1/6e3f0e476d90ba8fdb7d45f37f6e3300/jetified-picture_library-v2.2.3/AndroidManifest.xml:33:19-79
+44    </application>
+45
+46</manifest>
